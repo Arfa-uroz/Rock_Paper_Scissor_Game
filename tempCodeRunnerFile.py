@@ -1,0 +1,1 @@
+("helvetica",30,"bold")
